@@ -1,0 +1,15 @@
+TgCrypto
+pyrogram
+py-tgcalls
+git+https://github.com/adityacheats/downloader@master
+requests
+aiohttp
+aiofiles
+asyncio
+wget
+python-arq
+python-dotenv
+gTTS
+googletrans
+git+https://github.com/AKGV1/ytseach@master
+git+https://github.com/AKGV1/ytseach@master
